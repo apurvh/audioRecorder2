@@ -11,8 +11,8 @@ dependencies:
   path: ^1.5.1
   flutter:
     sdk: flutter
-  path_provider: ^0.4.1
-  file: ^5.0.4
+  path_provider: ^2.0.0
+  file: ^6.0.0-nullsafety.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
